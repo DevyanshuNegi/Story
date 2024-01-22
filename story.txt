@@ -1,3 +1,6 @@
 the first line of the story
 it is a very good story
+also this
 it is after git init
+it is after the first commit
+also this
