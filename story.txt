@@ -4,3 +4,5 @@ also this
 it is after git init
 it is after the first commit
 also this
+after second commit
+so it will track me.
